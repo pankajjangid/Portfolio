@@ -52,7 +52,7 @@ Helps create shortcuts based on user usage formats besides communicating with Al
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
 
-![Decathlon Online Shopping App](./images/decathlon_app.jpg)
+![Decathlon Online Shopping App](./images/digilux.jpg)
 
 # 3. RajCop (Only For Rajasthan Police Officials)
 
