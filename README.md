@@ -155,14 +155,13 @@ Please Visit our website for more details: https://www.voilasg.com
 
 # 8. CityJobber
 
-CityJobber is an all in one app for all kinds’ domestic and formal services in Nigeria.
-
+CityJobber is an all in one app for all kinds’ domestic and formal services. With CityJobber, You are guaranteed of properly verified and skilled professionals who are always available to handle every service needs you may require. Our app is fully available across Nigeria.
 
 #### Technolgies : Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
 
 #### Key Responsibility:
 - Creating android application from the scratch.
-- Communication with the client (Singapore).
+- Communication with the client (Nigeria).
 - Responsible for the development of all application components and UI resources.
 - Building compliant and scalable android Applications.
 - Worked with the UI team to design the appropriate icon and display for the screens
