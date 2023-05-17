@@ -153,6 +153,27 @@ Please Visit our website for more details: https://www.voilasg.com
 ![Voila Helper](./images/voilla_helper.jpg)
 
 
+# 8. CityJobber
+
+CityJobber is an all in one app for all kinds’ domestic and formal services in Nigeria.
+
+
+#### Technolgies : Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
+
+#### Key Responsibility:
+- Creating android application from the scratch.
+- Communication with the client (Singapore).
+- Responsible for the development of all application components and UI resources.
+- Building compliant and scalable android Applications.
+- Worked with the UI team to design the appropriate icon and display for the screens
+
+<a href='https://play.google.com/store/apps/details?id=com.octal.cityjobber'>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
+</a>
+
+![CityJobber](./images/cityjobber.jpg)
+
+
 ## Thanks for stopping by!
   
 
