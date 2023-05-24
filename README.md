@@ -15,7 +15,7 @@
 # 1. Decathlon Online Shopping App
 Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
 
-#### Technolgies : Kotlin,Room,Dagger 2.0 ,RxJava / RxAndroid,RxRelay,Timber,Jetpack Libraries,Retrofit,MVP
+#### Tools & Technolgies : Android Studio, Kotlin,Room,Dagger 2.0 ,RxJava / RxAndroid,RxRelay,Timber,Jetpack Libraries,Retrofit,MVP
 
 #### Key Responsibility:
 - Working on new features for Decathlon India Home Page and Search Screen.
@@ -40,7 +40,7 @@ Integration with home security products.
 
 Helps create shortcuts based on user usage formats besides communicating with Alexa, Google Home & many more connected home products.
 
-#### Technolgies : Kotlin,Room,openid AppAuth,NeumorphismView ,RxJava,Retrofit,MVP
+#### Tools & Technolgies : Android Studio,Kotlin,Room,openid AppAuth,NeumorphismView ,RxJava,Retrofit,MVP
 
 #### Key Responsibility:
 - Working on OAuth Intergration.
@@ -58,7 +58,7 @@ Helps create shortcuts based on user usage formats besides communicating with Al
 
 RajCop - Mobile application only to be used by authorized Rajasthan Police Officials. Others may not install and try it out. Its use is subject to legal consequences.
 
-#### Technolgies : Java,Kotlin,RxJava / RxAndroid,Retrofit,XML,MVP
+#### Tools & Technolgies : Android Studio,Java,Kotlin,RxJava / RxAndroid,Retrofit,XML,MVP
 
 #### Key Responsibility:
 - Maintaining the existing code and developing new features for Rajasthan Police Project CCTNS  Android Applications.
@@ -78,7 +78,7 @@ RajCop - Mobile application only to be used by authorized Rajasthan Police Offic
 
 This application is for citizens only to access  Lockdown Pass(Restrictions related to Corona Virus spread, police control room and selected contacts, Complaint registration and its status, View FIR- all FIR's except those which are restricted by law(Revealing victims identity in case of sexual offences, etc.), Report Crime, Search Vehicle- Basic details many more
 
-#### Technolgies : Java,Kotlin,RxJava / RxAndroid,Retrofit,XML,MVP
+#### Tools & Technolgies : Android Studio,Java,Kotlin,RxJava / RxAndroid,Retrofit,XML,MVP
 
 #### Key Responsibility:
 - Maintaining the existing code and developing new features for Rajasthan Police Project CCTNS  Android Applications.
@@ -97,7 +97,7 @@ This application is for citizens only to access  Lockdown Pass(Restrictions rela
 
 iGuruJi.in is an android Test Prep and video portal owned by AADHAR INSTITUTE , a part of AADHAR INSTITUTE’s Distance Learning Program Division. Aadhar Institute is the India's leading name in the field of Biotechnology and Life Science coaching, preparing students for Various Exams since 2002.
 
-#### Technolgies : Java,Kotlin,RxJava / RxAndroid,Exo player,Retrofit,XML,MVC
+#### Tools & Technolgies : Android Studio,Java,Kotlin,RxJava / RxAndroid,Exo player,Retrofit,XML,MVC
 
 #### Key Responsibility:
 - Maintaining the existing code and developing new features (Video Player & Course Module).
@@ -124,7 +124,7 @@ No more worries of per hour charges and overstay beyond the necessary timings.
 - Worked with the UI team to design the appropriate icon and display for the screens
 
 
-#### Technolgies : Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
+#### Tools & Technolgies : Android Studio,Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
 
 <a href='https://play.google.com/store/apps/details?id=com.octal.voila&hl=en_IN'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
@@ -137,7 +137,7 @@ No more worries of per hour charges and overstay beyond the necessary timings.
 Our objective is to provide an efficient housekeeping service to a satisfactory standard.
 Please Visit our website for more details: https://www.voilasg.com
 
-#### Technolgies : Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
+#### Tools & Technolgies : Android Studio,Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
 
 #### Key Responsibility:
 - Creating android application from the scratch.
@@ -157,7 +157,7 @@ Please Visit our website for more details: https://www.voilasg.com
 
 CityJobber is an all in one app for all kinds’ domestic and formal services. With CityJobber, You are guaranteed of properly verified and skilled professionals who are always available to handle every service needs you may require. Our app is fully available across Nigeria.
 
-#### Technolgies : Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
+#### Tools & Technolgies : Android Studio,Kotlin,RxJava / RxAndroid,Google Maps,Retrofit,MVP,XML,
 
 #### Key Responsibility:
 - Creating android application from the scratch.
