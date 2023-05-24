@@ -15,7 +15,7 @@
 # 1. Decathlon Online Shopping App
 Now enjoy and experience the entire offering of Decathlon India’s 70+ sports and over 5,000 products by using the Decathlon mobile application!
 
-#### Tools & Technolgies : Android Studio, Kotlin,Room,Dagger 2.0 ,RxJava / RxAndroid,RxRelay,Timber,Jetpack Libraries,Retrofit,MVP
+#### Tools & Technolgies : Android Studio, Kotlin,Room,Dagger 2.0 ,RxJava / RxAndroid,RxRelay,Timber,Jetpack Libraries,Retrofit,MVP,Dyantrace,Contentful
 
 #### Key Responsibility:
 - Working on new features for Decathlon India Home Page and Search Screen.
