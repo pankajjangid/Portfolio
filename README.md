@@ -117,7 +117,7 @@ English Madhyam is english learning application which has feature like Read News
 #### Tools & technologies : Android Studio,Flutter,Dart,Dio,Firebase,http,google signin,razorpay,provider,lottie
 
 #### Key Responsibility:
-- Maintaining the existing code and developing new features (Video Player & Course Module).
+- Maintaining the existing code and developing new features.
 - Resolve the bugs. 
 
 
