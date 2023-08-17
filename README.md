@@ -110,7 +110,24 @@ iGuruJi.in is an android Test Prep and video portal owned by AADHAR INSTITUTE , 
 
 ![iGuruJi -CSIR NET,GATE,IIT-JAM](./images/iguruji.jpg)
 
-# 6. Voila SG
+# 6. English Madhyam
+
+English Madhyam is english learning application which has feature like Read Newspaper Editorials,Learn Daily 5 New vocabulary Words,Attempt Daily Quiz & Get All India Rank,Story based article for beginners.
+
+#### Tools & technologies : Android Studio,Flutter,Dart,Dio,Firebase,http,google signin,razorpay,provider,lottie
+
+#### Key Responsibility:
+- Maintaining the existing code and developing new features (Video Player & Course Module).
+- Resolve the bugs. 
+
+
+<a href='https://play.google.com/store/apps/details?id=com.iguruji.biolifescience&hl=en_IN'>
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
+</a>
+
+![English Madhyam](./images/englishmadhyam.png)
+
+# 7. Voila SG
 
 Orders will be picked up by our associated helpers whom we have screened and have they have undergone a housekeeping course to ensure a minimum standard in providing the service.
 Our objective is to provide an efficient housekeeping service to a satisfactory standard.
@@ -132,7 +149,7 @@ No more worries of per hour charges and overstay beyond the necessary timings.
 
 ![Voila SG](./images/voilla_sg.jpg)
 
-# 7. Voila Helper
+# 8. Voila Helper
 
 Our objective is to provide an efficient housekeeping service to a satisfactory standard.
 Please Visit our website for more details: https://www.voilasg.com
@@ -153,7 +170,7 @@ Please Visit our website for more details: https://www.voilasg.com
 ![Voila Helper](./images/voilla_helper.jpg)
 
 
-# 8. CityJobber
+# 9. CityJobber
 
 CityJobber is an all in one app for all kinds’ domestic and formal services. With CityJobber, You are guaranteed of properly verified and skilled professionals who are always available to handle every service needs you may require. Our app is fully available across Nigeria.
 
