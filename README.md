@@ -121,7 +121,7 @@ English Madhyam is english learning application which has feature like Read News
 - Resolve the bugs. 
 
 
-<a href='https://play.google.com/store/apps/details?id=com.iguruji.biolifescience&hl=en_IN'>
+<a href='https://play.google.com/store/apps/details?id=com.education.english_madhyam&hl=en_IN'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/>
 </a>
 
